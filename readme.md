@@ -21,7 +21,7 @@ Skip the restaurant, install BDSM instead:
 
 ```bash
 # Clone the repo (commitment issues? we understand)
-git clone https://github.com/yourusername/BDSM.git
+git clone https://github.com/kichu12348/BDSM.git
 
 # Enter the spice zone
 cd BDSM

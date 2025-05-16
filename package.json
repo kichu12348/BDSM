@@ -1,0 +1,26 @@
+{
+  "name": "birijs",
+  "version": "1.0.0",
+  "scripts": {
+    "prepare": "node train.js",
+    "predict": "node predict.js",
+    "predict:url": "node predict.js"
+  },
+  "keywords": [
+    "tensorflow",
+    "biriyani",
+    "classification",
+    "mobilenet"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "Biriyani food classifier using TensorFlow.js and MobileNet",
+  "dependencies": {
+    "@tensorflow-models/mobilenet": "^2.1.1",
+    "@tensorflow/tfjs": "^4.22.0",
+    "@tensorflow/tfjs-node": "^4.7.0",
+    "@tensorflow/tfjs-node-gpu": "^4.7.0",
+    "sharp": "^0.32.1",
+    "uuid": "^9.0.0"
+  }
+}

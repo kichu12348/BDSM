@@ -1,0 +1,8 @@
+{
+  "imageSize": 224,
+  "mobilenetVersion": 1,
+  "mobilenetAlpha": 1,
+  "normalization": "mobilenet",
+  "version": "1.0.0",
+  "dateCreated": "2025-05-16T14:13:55.524Z"
+}
